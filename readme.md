@@ -1,2 +1,3 @@
-#Testing a MD file as a basic readme.md
+# Testing
+A MD file as a basic readme.md
 math $x^3$ 

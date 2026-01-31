@@ -58,3 +58,6 @@ while x <= 6:
 		break
 	else:
 		print("Error, enter a string")
+
+
+# Making more additons to test my git knowledge 

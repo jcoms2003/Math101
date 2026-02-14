@@ -30,16 +30,16 @@
 #		subtract(num1,num2)
 #	else:
 #main()
-
+# importing modules
 import math
 x = 0
 while x <= 6:
 	x += 1
+	print("Enter d for divide, m for module, f for floor, r for area of rectangle, tri for triagle, sh for sphere, or q for quit.")
+	select = input()
 	num1 = float(input("Enter num: "))
 	num2 = float(input("Enter num: "))
 	num3 = float(input("Enter num: "))
-	print("Enter d for divide, m for module, f for floor, r for area of rectangle, tri for triagle, sh for sphere, or q for quit.")
-	select = input()
 
 	if select == "d":
 		print(num1 / num2)
